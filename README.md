@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @superstars456
-- 👀 I’m interested in Microcontroler programming especially Atmega
-- 🌱 I’m currently learning C and working with Microchip Studio
-- 💞️ I’m looking to collaborate on bulding stuff with any Atmega Microcontroller
+- 👋 Hi, I’m Kevin Kipkorir
+- 👀 I’m interested in Microcontroler programming
+- 🌱 I’m use C and C++ 
+- 💞️ I’m looking to collaborate on bulding mechatronics projects
 - 📫 How to reach me kipkorir.magut@gmail.com
 
 <!---
